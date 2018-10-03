@@ -1,0 +1,56 @@
+header {background-image: url('../imagenes/header_background.png');
+background-repeat: no-repeat;
+background-color: red;
+width: 100%;}
+
+.isologotipo {width: 20%;
+              margin-left: 16%;
+              margin-top: 2%;
+              margin-bottom: 1%}
+
+nav.secciones {
+  background-color: rgb(137, 138, 134);
+}
+
+nav.secciones ul {
+  margin-left: 8%;
+  padding-top: 1%;
+  padding-bottom: 1%;}
+
+nav.secciones li {
+  display: inline;
+  margin-left: 2%}
+
+nav.secciones li a {
+  text-decoration: none;
+  color: rgb(229, 241, 231);
+  font-size: 1vw}
+
+nav.secciones li a:hover {
+  color: rgb(249, 57, 31)}
+
+nav.registro {
+  text-align: right;
+  float: right;
+  margin-right: 20%;}
+
+nav.registro li {
+  display: inline;
+}
+
+#registro a {
+  margin-left: 9%;
+  color: rgb(228, 236, 218);;
+}
+
+#registro a:hover {
+  color: rgb(249, 57, 31);
+}
+
+#registro_2 a {
+  color: rgb(229, 244, 240);;
+}
+
+#registro_2 a:hover {
+  color: rgb(249, 57, 31);
+}

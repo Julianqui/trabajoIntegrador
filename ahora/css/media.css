@@ -1,0 +1,76 @@
+@media (max-width: 960px) {
+	nav .li {
+		display: block;
+		width: 100%;;
+	}
+  header {background-attachment: fixed;
+  background-color: red;
+  width: 100%;
+  }
+
+	.main-header {
+		position: relative;
+		top: 0;
+		height: 80px;
+		margin-top: 40px;
+	}
+
+	.main-logo{
+		position: relative;
+		transform: none;
+		border-radius: 100%;
+		top: -30px;
+		left: 0;
+		width: 180px;
+	}
+
+	.main-nav {
+		width: 250px;
+		position: absolute;
+		top: 0;
+		right: 0;
+		text-align: right;
+	}
+
+	.main-nav:hover ul {
+		display: block;
+	}
+
+	.main-nav ul {
+		display: none;
+	}
+
+	.main-nav li {
+		text-align: left;
+		display: block;
+		background-color: rgba(0,0,0,0.8);
+		border-bottom: solid 1px rgba(255,255,255,0.5);
+	}
+
+	.left, .right {
+		float: none;
+	}
+
+	.poster-list {
+		width: 100%;
+		margin-top: 60px;
+	}
+
+	.poster-detail {
+		width: 47.92%;
+		margin: 10px 1.04%; /* (10 / 960) * 100 */
+	}
+}
+
+@media (max-width: 560px) {
+	.poster-list {
+		width: 96%;
+		margin: 40px 2%;
+	}
+
+	.poster-detail {
+		float: none;
+		width: 95%;
+		margin: 20px 2.5%;
+	}
+}
