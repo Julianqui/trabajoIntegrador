@@ -1,0 +1,65 @@
+header {
+  background-image: url('../imagenes/header_background.png');
+  background-repeat: no-repeat;
+  background-color: red;
+  width: 100%;
+}
+
+.isologotipo {
+  width: 20%;
+  margin-left: 16%;
+  margin-top: 2%;
+  margin-bottom: 1%
+}
+
+nav.secciones {
+  background-color: grey
+}
+
+nav.secciones ul {
+  margin-left: 15%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+nav.secciones li {
+  display: inline;
+  margin-left: 2%
+}
+
+nav.secciones li a {
+  text-decoration: none;
+  color: black;
+  font-size: 1vw;
+}
+
+nav.secciones li a:hover {
+  color: red
+}
+
+nav.registro {
+  text-align: right;
+  float: right;
+  margin-right: 20%;
+}
+
+nav.registro li {
+  display: inline;
+}
+
+#registro a {
+  margin-left: 19%;
+  color: red;
+}
+
+#registro a:hover {
+  color: white
+}
+
+#registro_2 a {
+  color: red;
+}
+
+#registro_2 a:hover {
+  color: white;
+}

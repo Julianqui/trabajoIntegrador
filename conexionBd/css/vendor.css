@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Montserrat;
+}
+
+body {
+  background-image: url('../imagenes/fondo.png');
+
+}
+
+article.white_section {
+  width: 73%;
+  background-color: white;
+  margin-left: 13%;
+}
+
+.slider {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.quienes_somos {
+  margin-left: 5%;
+  width: 90%;
+}
+
+.quienes_somos h1 {
+  font-weight: 900;
+}
+
+.que_buscamos {
+  margin-left: 5%;
+  width: 90%;
+  margin-top: 5%;
+  padding-bottom: 5%;
+}
+
+.quienes_somos p {
+  font-size: 15px;
+}
+
+.que_buscamos p {
+  font-size: 15px;
+}
