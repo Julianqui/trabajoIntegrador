@@ -1,0 +1,16 @@
+@media (
+  max-width: 768px) {
+
+  .areaT {
+    background-attachment: fixed;
+    background-color: rgb(245, 169, 122);
+    margin-left: 0px;
+    width: 450px;
+  }
+
+  .nube {
+    width: 300px;;
+    margin-left: 50px;
+    margin-bottom: 1%;
+
+  }
