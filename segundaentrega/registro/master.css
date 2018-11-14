@@ -1,0 +1,44 @@
+body{
+	background-color: rgb(143, 145, 140);
+	font-family: Montserrat;
+}
+
+input:hover{
+	border: 5px solid rgb(110, 246, 15);
+}
+.jumbotron{
+	background-color: rgb(196, 185, 186);
+	border: 10px solid rgb(74, 78, 71);
+	text-align: center;
+
+}
+
+ul{
+	margin-right: 50px;
+}
+
+header {
+  background-image: url('../imagenes/header_background.png');
+  background-repeat: no-repeat;
+  background-color: red;
+  width: 100%;
+}
+
+
+.isologotipo {
+  width: 20%;
+  margin-left: 16%;
+  margin-top: 2%;
+  margin-bottom: 1%
+}
+
+.errores {
+	color: #bd4147;
+    background-color: #f7f7f9;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+footer {
+	margin: 15px 0;
+}
