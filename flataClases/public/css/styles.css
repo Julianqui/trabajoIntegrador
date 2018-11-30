@@ -1,0 +1,22 @@
+@import "vendor.css";
+@import "header.css";
+@import "footer.css";
+@import "products.css";
+@import "preguntas.css";
+@import "perfil.css";
+@import "registro.css";
+@import "media-vendor.css";
+@import "media-producto.css";
+@import "media-perfil.css";
+@import "media-pregunta.css";
+@import "media-registro.css";
+
+
+.carrusel{
+  padding: 40px;
+
+}
+
+.carousel-inner{
+  box-shadow: 5px 10px 5px 5px rgba(110, 104, 106, 1);
+}
