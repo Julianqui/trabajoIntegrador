@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: Montserrat;
+}
+
+body {
+  background-image: url('../imagenes/fondo.png');
+  /* opacity: 0.2; */
+
+}
+
+article.white_section {
+  width: 73%;
+  background-color: white;
+  margin-left: 13%;
+  margin-top: 0%;
+
+}
+
+.slider {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.quienes_somos {
+  margin-left: 5%;
+  width: 90%;
+}
+
+.quienes_somos h1 {
+  font-weight: 900;
+}
+
+.que_buscamos {
+  margin-left: 5%;
+  width: 90%;
+  margin-top: 5%;
+  padding-bottom: 5%;
+}
+
+.quienes_somos p {
+  font-size: 15px;
+}
+
+.que_buscamos p {
+  font-size: 15px;
+}
+
+h3{
+  float: right;
+}
+
+button a {
+  color: black;
+}
+button a:hover {
+  text-decoration: none;
+}
+
+td img{
+  width: 50px;
+}
+
+
+/* .form-group label{
+  margin-left: 40%;
+
+}
+
+.form-group input{
+  margin-left: 40%;
+  width: 20%;
+}
+
+.form-group button{
+  margin-left: 20%;
+
+} */
